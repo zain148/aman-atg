@@ -21,8 +21,6 @@
 
 <br />
 
-[![](http://hits.dwyl.com/aman-atg/aman-atg.svg)](http://hits.dwyl.com/aman-atg/aman-atg)
-
 <br/>
 
 <p>
