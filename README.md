@@ -24,7 +24,7 @@
 <br/>
 
 <p>
-A Full Stack JavaScript Developer 🚀 from India. I consider myself as a skilled JS Developer with good debugging skills.
+A Skilled FullStack JavaScript Developer 🚀 from India. Always working on some project or learning something new!
 <br/>
 Stacks I have worked with : MERN , React+Firebase , Meteor+React , Next+React.
 <br/>  
