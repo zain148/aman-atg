@@ -37,7 +37,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working @Learnifii (React.js Dev.)
+- 👨🏽‍💻 I’m currently working on my portfolio & opensource projects.
 - 🌱 I’m currently learning Unit-Testing.
 - 🤔 I’m looking for help for my future MERN projects.
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
