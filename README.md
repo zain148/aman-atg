@@ -37,7 +37,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working on my portfolio & opensource projects.
+- 👨🏽‍💻 I’m currently working as a freelancer @Upwork.
 - 🌱 I’m currently learning Unit-Testing.
 - 🤔 I’m looking for help for my future MERN projects.
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
@@ -69,6 +69,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
 
