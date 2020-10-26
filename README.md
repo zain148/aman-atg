@@ -45,7 +45,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
 - 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Playing games.
 - 📫 How to reach me: aman.atg001@gmail.com
-- 📝 [Resume](https://www.canva.com/design/DAD8JlnPFhw/3v-OrtVl-UETeMGVfscAgQ/view?) (May,2020)
+- 📝 [Resume](https://drive.google.com/drive/folders/1VxDtIflu5nThxTtm8COG_eh_1FkjF3Jj)
 
 ### 🛠️ Languages and Tools:
 
