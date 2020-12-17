@@ -38,7 +38,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working as a freelancer.
+- 👨🏽‍💻 I’m currently working on my unfinished projects AGAIN!!.
 - 🌱 I’m currently learning Unit-Testing and TypeScript.
 <!--- 🤔 I’m looking for help for my future MERN projects.-->
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
